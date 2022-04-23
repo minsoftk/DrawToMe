@@ -2,7 +2,7 @@
 
 한정판 스니커즈 발매 소식과 응모 정보를 제공하는 웹사이트
 
-[데모 웹사이트](https://gallant-payne-2a2f4d.netlify.app/)
+[데모 웹사이트](https://6263c53660fece0b4ae52425--gallant-payne-2a2f4d.netlify.app/)
 
 ## 데스크탑
 
@@ -13,7 +13,6 @@
 <img src="./assets/mobile.gif">
   
   
-    
     
 
 
@@ -83,6 +82,6 @@ npm run start
 <img src="./assets/contributors.jpg">
 
 - [원종빈](https://github.com/JJongBin) @sa5jeong
-- [김민성](https://gtihub.com/minsoftk) @bbungbbung
+- [김민성](https://github.com/minsoftk) @bbungbbung
 - [박민지](https://github.com/urther) @mingsomm
 - [최한나](https://github.com/hann3) @chihanna
